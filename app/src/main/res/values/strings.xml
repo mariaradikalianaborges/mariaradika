@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Dinas Pangan Tanaman Pangan dan Hortikultura</string>
+    <string name="detail">Detail</string>
+    <array name="photo">
+        <item>
+            @drawable/depan
+        </item>
+
+        <item>
+            @drawable/pelayanan
+        </item>
+
+        <item>
+            @drawable/produksi
+        </item>
+
+        <item>
+            @drawable/ruangtunggu
+        </item>
+
+        <item>
+            @drawable/umum
+        </item>
+
+        <item>
+            @drawable/keuangan
+        </item>
+
+        <item>
+            @drawable/perencanaan
+        </item>
+
+        <item>
+            @drawable/sekertaris
+        </item>
+
+        <item>
+            @drawable/konsumsi
+        </item>
+
+        <item>
+            @drawable/hortikultura
+        </item>
+
+        
+
+
+    </array>
+    <string-array name="nama_dinas">
+        <item> Dinas Pangan, Tanaman Pangan Dan Hortikultura</item>
+        <item> Ruang Pelayanan </item>
+        <item> Ruang Bidang Produksi Tanaman Pangan </item>
+        <item> Ruang Sekertariat </item>
+        <item> Ruang Bagian Umum </item>
+        <item> Ruang Bagian Keuangan </item>
+        <item> Ruang Bagian Perencanaan Program </item>
+        <item> Ruang Sekertaris </item>
+        <item> Ruang Konsumsi Dan Keamanan Pangan </item>
+        <item> Ruang Bidang Produksi Hortikultura </item>
+        <item> Ruang Kepala Dinas </item>
+        <item> Ruang Rapat Oryza Sativa </item>
+        <item> Ruang Rapat Anggrek Hitam </item>
+        <item> Mushola </item>
+        <item> Lahan Parkir </item>
+
+
+    </string-array>
+    <string-array name="deskripsi">
+        <item>A. Sejarah
+
+            Berdirinya Kantor Dinas Pertanian Tanaman Pangan Propinsi Daerah Tingkat I Kalimantan Timur
+
+    Dinas Pertanian dan Tanaman pangan daerah tingkat I Samarinda didirikan pada tahun 1946, yang pada saat itu masih bernama Dinas Pertanian Rakyat. Seiring dengan perkembangan Negara Republik Indonesia maka instansi pemerintahan yang ada secara bertahap mulai di benahi dan di sempurnakan. Demikian pula dengan Dinas Pertanian Tanaman Pangan di Kalimantan Timur, dimana sejak berlakunya Surat keputusan (SK) Peraturan Daerah Nomor 05 Tahun 1983 maka Dinas Pertanian Tanaman Pangan sebagai Realisasi dari
+             :
+            1.UU No. 25 Tahun 1956, Tentang Pembentukan Daerah Otonomi Propinsi Seluruh Kalimantan.
+            2.UU No. 05 Tahun 1947, Tentang pokok-pokok pemerintah daerah
+            3.Peraturan pemerintah daerah No. 05 Tahun 1951, Tentang UU No. 24 Tahun 1956, Tentang penyerahan sebagian urusan pemerintah dilapangan pada daerah- daerah tingkat I.
+            4.Peraturan Menteri dalam Negeri No. 14 Tahun 1974 Bentuk pemerintahan di  Surat Edaran Menteri dalam Negeri tanggal 2 mei 1975 No. Pembaharuan 7/ 5 / 38 tentang penjelasan dan penagasan.
+            5.Keputusan menteri Dalam Negeri No. 365 tahun 1979 Tentang pola organisasi pemerintah daerah dan wilayah.
+
+
+        </item>
+
+        <item>
+            Nama ilmiah dari bunga asoka sendiri memiliki nama yang sangat cantik yaitu Ixora acuminata. Sedangkan untuk klasifikasi dari makhluk hidup yang satu ini cukup mudah, di mana tanaman hias ini masuk ke dalam tanaman berbunga.
+            Di Indonesia sendiri tanaman ini dapat ditemukan di mana saja. Bahkan di beberapa pekarangan rumah. Sedangkan di Eropa, tanaman asoka memiliki julukan flame of the wood yang artinya api hutan. Karena sangat mencolok di antara beberapa tanaman hutan.
+            Klasifikasi Tanaman Bunga Asoka.
+        </item>
+
+        <item>
+            Anggrek memiliki lebih dari 25.000 spesies dengan bentuk dan warna beragam. Hal tersebut membuat bunga anggrek menjadi unik dan spesial karena variasi jenisnya. Terdapat anggrek dengan ukuran kecil, sedang, bahkan sedang.
+            Selain itu, bentuknya pun kadang menyerupai hewan lain atau bentuk unik lain. Hal tersebut dapat menarik perhatian lebah untuk melakukan penyerbukan. Anggrek pun dapat dijumpai di semua tempat, hampir seluruh dunia. Karena keistimewaan yang dimiliki anggrek tersebut, bunga ini menjadi salah satu bunga tercantik di dunia.
+        </item>
+
+        <item>
+            Bunga matahari (Helianthus annuus L.) adalah tumbuhan semusim dari suku kenikir-kenikiran (Asteraceae) yang populer, baik sebagai tanaman hias maupun tanaman penghasil minyak. Bunga tumbuhan ini sangat khas: besar, biasanya berwarna kuning terang, dengan kepala bunga yang besar (diameter bisa mencapai 30 cm). Bunga ini sebetulnya adalah bunga majemuk, tersusun dari ratusan hingga ribuan bunga kecil pada satu bongkol. Bunga Matahari juga memiliki perilaku khas, yaitu bunganya selalu menghadap / condong ke arah matahari atau heliotropisme. Orang Prancis menyebutnya tournesol atau "pengelana Matahari". Namun, sifat ini disingkirkan pada berbagai kultivar baru untuk produksi minyak karena memakan banyak energi dan mengurangi hasil.
+            Bunga matahari merupakan bunga nasional Ukraina dan bunga resmi negara bagian Kansas, Amerika Serikat.
+        </item>
+
+        <item>
+            Bunga alamanda memiliki bentuk menyerupai lingkaran dan umumnya memiliki lima kelopak. Kelopak bunga tersebut mekar dengan indah, memancarkan kehangatan bagi orang di sekitarnya. Bunga alamanda umumnya memiliki warna yang cerah, misalnya kuning dan oranye. Hal tersebut membuat bunga memberikan sugesti kesemangatan kepada sekitar.
+        </item>
+
+        <item>
+            Bunga lili air memiliki 70 jenis bunga yang tersebar di berbagai belahan dunia. Bunga ini memiliki kelopak yang cenderung runcing dan mengitari pangkal bunganya. Bagian tengah bunga berbentuk lingkaran yang seakan-akan menjadi sumber keindahan lili air. Kelopaknya pun berwarna sangat cantik yang memancarkan keindahan lili air dari tengah bunganya.
+            Seperti namanya, bunga lili air tumbuh di perairan yang dangkal, misalnya kolam. Tidak hanya cantik saja lho guys, bunga lili air juga berperan penting untuk memberikan keseimbangan suhu dalam air serta memberikan lokasi bagi ikan untuk bertempat tinggal.
+        </item>
+
+        <item>
+            Bunga dahlia memiliki 42 macam spesies di seluruh dunia. Bentuk dan warna bunga dahlia pun beraneka macam. Hal tersebut membuat bunga ini menjadi idola bagi para penggemar bunga. Bunga dahlia memiliki ukuran yang bervariasi, yaitu dari ukuran kecil, sedang, hingga besar.
+            Ukuran kelopak bunga dalam satu bunga pun bervariasi, yang disusun dalam berbagai tingkat kelopak. Kelopak di bagian tengah cenderung kecil, kemudian bentuknya semakin besar pada kelopak tengah bunga, dan lebih besar lagi pada kelopak pinggir bunga.
+            Hal tersebut membuat bunga dahlia seperti memancarkan energi keindahan dan semakin mempercantik bunga dahlia. Selain itu, bunga ini tidak hanya memiliki satu warna, tetapi justru memiliki banyak sekali variasi warna.
+        </item>
+
+        <item>
+            Bunga teratai memiliki kelopak yang berbentuk oval dan runcing di ujungnya. Kadangkala bunga teratai dapat mekar seperti mangkuk, atau lebih mekar lagi seperti piring.
+            Hal yang mengagumkan dari teratai adalah, bunga ini dapat mekar walaupun berada dalam air yang keruh. Teratai mekar dengan mengesankan, laksana seorang ratu di perairan dalam lingkungannya.
+            Umumnya bunga teratai berwarna merah, merah muda, dusty pink, atau kombinasi di antaranya. Bunga ini tumbuh pada wilayah dengan penyinaran matahari cukup dan sulit hidup pada tempat yang dingin.
+        </item>
+
+        <item>
+            bunga kertas/bougenvil
+            adalah tanaman hias populer. Bentuknya berupa pohon kecil yang sukar tumbuh tegak. Keindahannya berasal dari seludang bunganya yang berwarna cerah dan menarik perhatian karena tumbuh dengan rimbunnya. Seludang bunga ini kerap dianggap sebagai bagian bunga, walaupun bunganya yang benar adalah bunga kecil yang terlindung oleh seludang. Seludang ini mengandung zat yang baik untuk kesehatan. Adib Nurdiyanto, warga Bojonegoro mengolah seludang bunga Bougenville ini menjadi minuman herbal.
+            Bunga kertas mempunyai bagian tanaman yang berwarna-warni. Oleh karena itu, bunga kertas menjadi tanaman hias yang sangat populer karena kecantikkan warnanya dan cara merawatnya yang mudah.
+        </item>
+
+        <item>
+            bunga kertas/bougenvil
+            adalah tanaman hias populer, Bentuknya berupa pohon kecil yang sukar tumbuh tegak. Keindahannya berasal dari seludang bunganya yang berwarna cerah dan menarik perhatian karena tumbuh dengan rimbunnya. Seludang bunga ini kerap dianggap sebagai bagian bunga, walaupun bunganya yang benar adalah bunga kecil yang terlindung oleh seludang. Seludang ini mengandung zat yang baik untuk kesehatan. Adib Nurdiyanto, warga Bojonegoro mengolah seludang bunga Bougenville ini menjadi minuman herbal.
+            Bunga kertas mempunyai bagian tanaman yang berwarna-warni. Oleh karena itu, bunga kertas menjadi tanaman hias yang sangat populer karena kecantikkan warnanya dan cara merawatnya yang mudah.
+        </item>
+    </string-array>
+</resources>
